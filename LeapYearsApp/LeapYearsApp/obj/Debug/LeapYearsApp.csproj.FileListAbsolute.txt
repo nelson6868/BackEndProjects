@@ -1,0 +1,7 @@
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\LeapYearsApp\LeapYearsApp\bin\Debug\LeapYearsApp.exe.config
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\LeapYearsApp\LeapYearsApp\bin\Debug\LeapYearsApp.exe
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\LeapYearsApp\LeapYearsApp\bin\Debug\LeapYearsApp.pdb
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\LeapYearsApp\LeapYearsApp\obj\Debug\LeapYearsApp.csprojAssemblyReference.cache
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\LeapYearsApp\LeapYearsApp\obj\Debug\LeapYearsApp.csproj.CoreCompileInputs.cache
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\LeapYearsApp\LeapYearsApp\obj\Debug\LeapYearsApp.exe
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\LeapYearsApp\LeapYearsApp\obj\Debug\LeapYearsApp.pdb

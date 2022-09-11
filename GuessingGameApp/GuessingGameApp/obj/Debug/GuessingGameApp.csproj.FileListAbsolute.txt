@@ -1,0 +1,7 @@
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.exe.config
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.exe
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.pdb
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csprojAssemblyReference.cache
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csproj.CoreCompileInputs.cache
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.exe
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.pdb

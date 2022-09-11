@@ -1,0 +1,7 @@
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\TranslatorApp\TranslatorApp\bin\Debug\TranslatorApp.exe.config
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\TranslatorApp\TranslatorApp\bin\Debug\TranslatorApp.exe
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\TranslatorApp\TranslatorApp\bin\Debug\TranslatorApp.pdb
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\TranslatorApp\TranslatorApp\obj\Debug\TranslatorApp.csprojAssemblyReference.cache
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\TranslatorApp\TranslatorApp\obj\Debug\TranslatorApp.csproj.CoreCompileInputs.cache
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\TranslatorApp\TranslatorApp\obj\Debug\TranslatorApp.exe
+C:\Users\NELSON NNACHETA\source\repos\BackEndProject\TranslatorApp\TranslatorApp\obj\Debug\TranslatorApp.pdb
